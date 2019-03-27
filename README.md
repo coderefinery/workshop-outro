@@ -24,8 +24,8 @@ If you would like to get involved in teaching/tutoring/material:
   - please write to us, every contribution most welcome
 
 We use [Zulip](https://zulipchat.com) to discuss within our team and community.
-We discuss in the open and you can join us: https://coderefinery.zulipchat.com
-- you can listen in, follow certain threads, participate, and influence.
+We discuss in the open and you can join us: https://coderefinery.zulipchat.com.
+You can listen in, follow certain threads, participate, and influence.
 Welcome!  Also we would love to answer any question about code development,
 tools, project layouts, etc.. Perhaps we can connect people to help out with code
 review?
