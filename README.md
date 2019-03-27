@@ -1,3 +1,7 @@
+
+
+# Concluding remarks for workshops and where to go from there
+
 All feedback welcome:
   - email
   - sticky notes
