@@ -22,6 +22,7 @@ If you liked this workshop, **tell others** about the "notify-me" form:
 
 **If you would like to get involved** in teaching/tutoring/material:
   - please write to us, every contribution most welcome
+  - if you would like to reuse some of our material, we can probably support you
 
 We use [Zulip](https://zulipchat.com) to discuss within our team and community.
 We discuss in the open and **you can join our chat**: https://coderefinery.zulipchat.com.
