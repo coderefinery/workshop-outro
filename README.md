@@ -24,6 +24,13 @@ If you liked this workshop, **tell others** about the "notify-me" form:
   - please write to us, every contribution most welcome
   - if you would like to reuse some of our material, we can probably support you
 
+**CodeRefinery newsletter**
+  - frequency: roughly bi-monthly
+  - projects updates, announcements of workshops and other events, some tips and tricks...
+  - to sign up, visit https://coderefinery.org/outreach/ 
+
+**Participate in discussions**
+
 We use [Zulip](https://zulipchat.com) to discuss within our team and community.
 We discuss in the open and **you can join our chat**: https://coderefinery.zulipchat.com.
 You can listen in, follow certain threads, participate, and influence.
