@@ -17,8 +17,7 @@ To use our **GitLab service** https://source.coderefinery.org:
 **Changes to the material**:
   - issues and pull requests very welcome: https://github.com/coderefinery/
 
-If you liked this workshop, **tell others** about the "notify-me" form:
-  - https://coderefinery.org/workshops/#notify-me
+If you liked this workshop, **tell others** about the ["notify-me" form.](https://docs.google.com/forms/d/e/1FAIpQLSe5-uQyYKaGJ5DQg2VXUZspD7rM5kzw_GFbOpwZz7g5KhboWQ/viewform)
 
 **If you would like to get involved** in teaching/tutoring/material:
   - please write to us, every contribution most welcome
