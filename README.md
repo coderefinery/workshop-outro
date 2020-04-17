@@ -17,10 +17,11 @@ To use our **GitLab service** https://source.coderefinery.org:
 **Changes to the material**:
   - issues and pull requests very welcome: https://github.com/coderefinery/
 
-If you liked this workshop, **tell others** about the ["notify-me" form.](https://docs.google.com/forms/d/e/1FAIpQLSe5-uQyYKaGJ5DQg2VXUZspD7rM5kzw_GFbOpwZz7g5KhboWQ/viewform)
+If you liked this workshop, **tell others** about the ["notify-me" form.](https://indico.neic.no/event/135/surveys/)
 
 **If you would like to get involved** in teaching/tutoring/material:
-  - please write to us, every contribution most welcome
+  - if you would like to participate as helper or instructor in future workshops, please fill the ["notify-me" form.](https://indico.neic.no/event/135/surveys/)
+  - you can also write to us, every contribution most welcome
   - if you would like to reuse some of our material, we can probably support you
 
 **CodeRefinery newsletter**
