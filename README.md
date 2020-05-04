@@ -29,6 +29,12 @@ If you liked this workshop, **tell others** about the ["notify-me" form.](https:
   - projects updates, announcements of workshops and other events, some tips and tricks...
   - to sign up, visit https://coderefinery.org
 
+**Research Software Hour**
+  - web show on Twitch about the types of material we cover here
+  - focused on practical tips and mentoring
+  - Tuesdays at 20:30 Oslo/21:30 Helsinki time
+  - https://researchsoftwarehour.github.io/
+
 **Participate in discussions**
 
 We use [Zulip](https://zulipchat.com) to discuss within our team and community.
