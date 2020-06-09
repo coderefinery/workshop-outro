@@ -6,7 +6,7 @@
   - email
   - sticky notes
   - https://twitter.com/coderefine
-  - https://coderefinery.org/contact/
+  - https://coderefinery.org/get-involved/#contact-us
 
 If you would like a **certificate**, please email support@coderefinery.org
 
