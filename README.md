@@ -32,7 +32,7 @@ If you liked this workshop, **tell others** about the ["notify-me" form.](https:
 **Research Software Hour**
   - web show on Twitch about the types of material we cover here
   - focused on practical tips and mentoring
-  - Tuesdays at 20:30 Oslo/21:30 Helsinki time
+  - Thursdays at 20:30 Oslo/21:30 Helsinki time
   - https://researchsoftwarehour.github.io/
 
 **Participate in discussions**
