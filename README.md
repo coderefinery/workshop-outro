@@ -59,8 +59,7 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 **Tell everyone about us**
 - To be sustainable, we need people to know of the service we provide.
-- Twitter: https://twitter.com/coderefine, @coderefine, #coderefinery
-- **Notify-me form:** Get notified about upcoming workshops: https://indico.neic.no/event/135/surveys/
+- https://twitter.com/coderefine
 
 **Come back as an Exercise Leader**
 - Bring your group, learn together.
