@@ -23,8 +23,8 @@ A **Research Software Engineer**combines research knowledge with
 software development experience, just like we have learned here.
 
 - https://nordic-rse.org
-- **Unconference: June NN-MM, submit talks technology-related
-  topics.**
+- **[Unconference: June 29-30](https://nordic-rse.org/events/2021-online-unconference/),
+  submit talks technology-related topics.**
 - https://twitter.com/nordic-rse
 
 ### Research Software Hour
