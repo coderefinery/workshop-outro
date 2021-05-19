@@ -19,7 +19,7 @@ do next?
 
 ### Nordic-RSE
 
-A **Research Software Engineer**combines research knowledge with
+A **Research Software Engineer** combines research knowledge with
 software development experience, just like we have learned here.
 
 - https://nordic-rse.org
@@ -39,7 +39,7 @@ software development experience, just like we have learned here.
 
 ## Gitlab service: source.coderefinery.org
 
-CodeRefinery has a cross-Nordic Gitlab service: https://source.coderefinery.org:
+CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 - to be able to create projects/groups, please write support@coderefinery.org
 - everybody can join existing projects without asking us
