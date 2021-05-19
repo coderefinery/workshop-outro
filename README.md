@@ -22,6 +22,7 @@ do next?
 A **Research Software Engineer** combines research knowledge with
 software development experience, just like we have learned here.
 
+- NordicRSE members can be found here: https://nordic-rse.org/map/
 - https://nordic-rse.org
 - **[Unconference: June 29-30](https://nordic-rse.org/events/2021-online-unconference/),
   submit talks technology-related topics.**
@@ -48,6 +49,7 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 ## Feedback
 
+**All feedback welcome and encouraged**:
 - HackMD: like usual
 - email, support@coderefinery.org
 - sticky notes (in-person)
@@ -77,11 +79,10 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 **Come back as an Exercise Leader**
 - Bring your group, learn together.
 
-**If you would like to get involved** in teaching/tutoring/material:
+**If you would like to get involved** in teaching/tutoring/material or even event organization:
   - if you would like to participate as helper or instructor in future workshops, please fill the ["notify-me" form.](https://indico.neic.no/event/135/surveys/)
   - you can also write to us, every contribution most welcome
-  - if you would like to reuse some of our material, we can probably support you
-
+  - if you would like to reuse some of our material for your own workshops, we can probably support you
 
 **Chat**
 - We use [Zulip](https://zulipchat.com) to discuss within our team and community.
@@ -91,12 +92,13 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
   tools, project layouts, etc.. Perhaps we can connect people to help out with code
   review?
 
-**Changes to the material**:
+**Changes to the lesson material**/ unclear exercise instructions/ broken links:
 - issues and pull requests very welcome: https://github.com/coderefinery/
+- we usually go through all issues latest before each workshop and are happy to hear about anything that could be improved from partcipant view
 
-- Join as a contributor or Training hub.
-  - We are at a transition point from a funded project to a
-    cooperative.  We still have to figure stuff out...
+**Join as a contributor or Training hub**
+- We are at a transition point from a funded project to a
+  cooperative. We still have to figure stuff out ...
 
 
 
