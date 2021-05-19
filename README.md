@@ -36,15 +36,6 @@ software development experience, just like we have learned here.
 
 
 
-## Gitlab service: source.coderefinery.org
-
-CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
-
-- to be able to create projects/groups, please write support@coderefinery.org
-- everybody can join existing projects without asking us
-
-
-
 ## Feedback
 
 **All feedback welcome and encouraged**:
@@ -84,3 +75,12 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 ## Practical matters
 
 If you would like a **certificate**, please email support@coderefinery.org
+
+
+
+## Gitlab service: source.coderefinery.org
+
+CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
+
+- to be able to create projects/groups, please write support@coderefinery.org
+- everybody can join existing projects without asking us
