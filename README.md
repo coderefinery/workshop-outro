@@ -68,15 +68,22 @@ CodeRefinery has a cross-Nordic Gitlab service: https://source.coderefinery.org:
 
 
 
+
 ## Help CodeRefinery
+
+**Tell everyone about us**
+- To be sustainable, we need people to know of the service we provide.
+
+**Come back as an Exercise Leader**
+- Bring your group, learn together.
 
 **If you would like to get involved** in teaching/tutoring/material:
   - if you would like to participate as helper or instructor in future workshops, please fill the ["notify-me" form.](https://indico.neic.no/event/135/surveys/)
   - you can also write to us, every contribution most welcome
   - if you would like to reuse some of our material, we can probably support you
 
-**Chat**
 
+**Chat**
 - We use [Zulip](https://zulipchat.com) to discuss within our team and community.
   We discuss in the open and **you can join our chat**: https://coderefinery.zulipchat.com.
   You can listen in, follow certain threads, participate, and influence.
