@@ -6,10 +6,9 @@
 We have taught a lot, but it is just a starting point.  What can you
 do next?
 
-* Do stuff, learn more
-* Work together with people
+* Learn together, work together, teach together with others
 * More advanced courses or independent study
-* CodeRefinery chat, ask for help: https://coderefinery.github.io/manuals/
+* CodeRefinery chat: https://coderefinery.zulipchat.com
 
 ### Universities that can support you
 
@@ -23,7 +22,6 @@ A **Research Software Engineer** combines research knowledge with
 software development experience, just like we have learned here.
 
 - NordicRSE members can be found here: https://nordic-rse.org/map/
-- https://nordic-rse.org
 - **[Unconference: June 29-30](https://nordic-rse.org/events/2021-online-unconference/),
   submit talks technology-related topics.**
 - https://twitter.com/nordic-rse
@@ -32,7 +30,7 @@ software development experience, just like we have learned here.
 
 - Web show on Twitch about the types of material we cover here
 - focused on practical tips and mentoring
-- Thursdays at 20:30 Oslo/21:30 Helsinki time
+- Ca. every two weeks, Thursdays at 20:30 Oslo/21:30 Helsinki time
 - https://researchsoftwarehour.github.io/
 - **Anyone want to be a guest and provide topics for us?**
 
@@ -57,43 +55,26 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 
 
-## Spread the word
-
-- Twitter: https://twitter.com/coderefine, @coderefine, #coderefinery
-
-- **Notify-me form:** Get notified about upcoming workshops: https://indico.neic.no/event/135/surveys/
-
-  - frequency: roughly bi-monthly
-  - projects updates, announcements of workshops and other events, some tips and tricks...
-  - to sign up, visit https://coderefinery.org
-
-
-
-
 ## Help CodeRefinery
 
 **Tell everyone about us**
 - To be sustainable, we need people to know of the service we provide.
+- Twitter: https://twitter.com/coderefine, @coderefine, #coderefinery
+- **Notify-me form:** Get notified about upcoming workshops: https://indico.neic.no/event/135/surveys/
 
 **Come back as an Exercise Leader**
 - Bring your group, learn together.
 
 **If you would like to get involved** in teaching/tutoring/material or even event organization:
-  - if you would like to participate as helper or instructor in future workshops, please fill the ["notify-me" form.](https://indico.neic.no/event/135/surveys/)
-  - you can also write to us, every contribution most welcome
-  - if you would like to reuse some of our material for your own workshops, we can probably support you
-
-**Chat**
-- We use [Zulip](https://zulipchat.com) to discuss within our team and community.
-  We discuss in the open and **you can join our chat**: https://coderefinery.zulipchat.com.
-  You can listen in, follow certain threads, participate, and influence.
-  Welcome!  Also we would love to answer **any question about code development**,
-  tools, project layouts, etc.. Perhaps we can connect people to help out with code
-  review?
+- If you would like to participate as helper or instructor in future workshops, please fill the ["notify-me" form.](https://indico.neic.no/event/135/surveys/)
+- You can also write to us, every contribution most welcome
+- If you would like to reuse some of our material for your own workshops, we can probably support you
+- https://coderefinery.github.io/manuals/
 
 **Changes to the lesson material**/ unclear exercise instructions/ broken links:
-- issues and pull requests very welcome: https://github.com/coderefinery/
-- we usually go through all issues latest before each workshop and are happy to hear about anything that could be improved from partcipant view
+- Issues and pull requests very welcome: https://github.com/coderefinery/
+- We usually go through all issues latest before each workshop and are happy to
+  hear about anything that could be improved from participant view
 
 **Join as a contributor or Training hub**
 - We are at a transition point from a funded project to a
