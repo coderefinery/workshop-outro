@@ -63,7 +63,6 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 - **Notify-me form:** Get notified about upcoming workshops: https://indico.neic.no/event/135/surveys/
 
-**CodeRefinery newsletter**
   - frequency: roughly bi-monthly
   - projects updates, announcements of workshops and other events, some tips and tricks...
   - to sign up, visit https://coderefinery.org
