@@ -9,12 +9,17 @@ do next?
 * Learn together, work together, teach together with others
 * More advanced courses or independent study
 * CodeRefinery chat: https://coderefinery.zulipchat.com
+  * #help stream, give and ask advice.
 
 ### Universities that can support you
 
-* Aalto University: https://scicomp.aalto.fi/
+* Aalto Scientific Computing: https://scicomp.aalto.fi/
+  * Daily session for questions: https://scicomp.aalto.fi/help/garage/
   * Research Software Engineers can get you started, finished, or give
     advice
+* Swedish National Infrastructure for Computing: https://snic.se
+* And many more
+
 
 ### Nordic-RSE
 
@@ -22,8 +27,8 @@ A **Research Software Engineer** combines research knowledge with
 software development experience, just like we have learned here.
 
 - NordicRSE members can be found here: https://nordic-rse.org/map/
-- **[Unconference: June 29-30](https://nordic-rse.org/events/2021-online-unconference/),
-  submit talks technology-related topics.**
+- **Unconference: June 29-30,
+  submit talks technology-related topics:** https://nordic-rse.org/events/2021-online-unconference/
 - https://twitter.com/nordic-rse
 
 ### Research Software Hour
@@ -56,7 +61,8 @@ software development experience, just like we have learned here.
 - Bring your group, learn together.
 
 **If you would like to get involved** in teaching/tutoring/material or even event organization:
-- If you would like to participate as helper or instructor in future workshops, please fill the ["notify-me" form.](https://indico.neic.no/event/135/surveys/)
+- If you would like to participate as helper or instructor in future
+  workshops, please fill the "notify-me" form: https://indico.neic.no/event/135/surveys/
 - You can also write to us, every contribution most welcome
 - If you would like to reuse some of our material for your own workshops, we can probably support you
 - https://coderefinery.github.io/manuals/
@@ -66,7 +72,7 @@ software development experience, just like we have learned here.
 - We usually go through all issues latest before each workshop and are happy to
   hear about anything that could be improved from participant view
 
-**Join as a contributor or Training hub**
+**Join as a contributor or training hub**
 - We are at a transition point from a funded project to a
   cooperative. We still have to figure stuff out ...
 
