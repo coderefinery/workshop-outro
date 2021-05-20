@@ -92,3 +92,6 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 - to be able to create projects/groups, please write support@coderefinery.org
 - everybody can join existing projects without asking us
+
+## Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=8li6hjcjm95g76pgte1p5pi05c%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
