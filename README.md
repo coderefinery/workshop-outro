@@ -18,6 +18,7 @@ do next?
   * Research Software Engineers can get you started, finished, or give
     advice
 * Swedish National Infrastructure for Computing: https://snic.se
+* CSC - IT Center for Science: https://www.csc.fi/en/training
 * And many more
 
 
