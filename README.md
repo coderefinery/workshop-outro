@@ -87,6 +87,8 @@ for instructions depending on your location.
 * EuroCC National Competence Center Sweden: https://enccs.se/
   * Upcoming events: https://enccs.se/events/
 * CSC - IT Center for Science: https://www.csc.fi/en/training
+* Norwegian Research Infrastructure Services (NRIS)
+  * Training: https://documentation.sigma2.no/training/events.html
 * And many more
 
 
@@ -108,6 +110,13 @@ These upcoming courses have public registration, wherever you are:
   * [Contemporary Natural Language Processing](https://enccs.se/events/2022-05-contemporary-nlp/) 12-13 May
   * [High Performance Data Analytics in Python](https://enccs.se/events/2022-05-hpda-python/) 18-20 May
   * [Introduction to Quantum Computing & Hybrid HPC-QC Systems](https://enccs.se/events/2022-06-quantum-computing/) 8-9 June
+* Norwegian Research Infrastructure Services
+  * [HPC
+    On-boarding](https://documentation.sigma2.no/training/events/2022-05-hpc-on-boarding.html),
+    3-5 May 2022
+  * [Best practices on NRIS
+    clusters](https://documentation.sigma2.no/training/events/2022-05-best-practices-on-NRIS-clusters.html),
+    23-24 May 2022
 
 
 ### Nordic-RSE
