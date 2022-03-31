@@ -79,27 +79,29 @@ for instructions depending on your location.
 
 ### Universities and partners that can support you
 
-* Aalto Scientific Computing: https://scicomp.aalto.fi/
+* **Aalto Scientific Computing**: https://scicomp.aalto.fi/
   * Daily session for questions: https://scicomp.aalto.fi/help/garage/
   * Research Software Engineers provide close support for anything we
     have covered in this workshop: https://scicomp.aalto.fi/rse/
-* Swedish National Infrastructure for Computing: https://snic.se
-* EuroCC National Competence Center Sweden: https://enccs.se/
+* **Swedish National Infrastructure for Computing**: https://snic.se
+* **EuroCC National Competence Center Sweden**: https://enccs.se/
   * Upcoming events: https://enccs.se/events/
-* CSC - IT Center for Science: https://research.csc.fi/
+* **CSC - IT Center for Science**: https://research.csc.fi/
   * Training calendar: https://www.csc.fi/en/training#training-calendar
-* Norwegian Research Infrastructure Services (NRIS)
+* **Norwegian Research Infrastructure Services (NRIS)**
   * Training: https://documentation.sigma2.no/training/events.html
 * And many more
 
 
 ### Upcoming courses to highlight
 
+There are *many* training courses 
+
 These upcoming courses have public registration, wherever you are:
 
 * Aalto University, https://scicomp.aalto.fi/training
   * [Scientific Computing / HPC
-	kickstart](https://scicomp.aalto.fi/training/scip/debugging-2022/),
+	kickstart](https://scicomp.aalto.fi/training/scip/summer-kickstart-2022/),
 	7,9-10 June
   * [How to debug
     code](https://scicomp.aalto.fi/training/scip/debugging-2022/)
