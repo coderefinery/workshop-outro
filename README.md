@@ -107,10 +107,8 @@ These upcoming courses have public registration, wherever you are:
     20-26 April
 * EuroHPC National Competence Center Sweden, [ENCCS](https://enccs.se/)
   * [SYCL Workshop](https://enccs.se/events/04-2022-sycl/) 19-21 April
-  * [Upscaling A.I. Workflows](https://enccs.se/events/2022-04-upscaling-ai-with-containers/) 25-26 April
-  * [Contemporary Natural Language Processing](https://enccs.se/events/2022-05-contemporary-nlp/) 12-13 May
-  * [High Performance Data Analytics in Python](https://enccs.se/events/2022-05-hpda-python/) 18-20 May
   * [Introduction to Quantum Computing & Hybrid HPC-QC Systems](https://enccs.se/events/2022-06-quantum-computing/) 8-9 June
+  * [And many more!](https://enccs.se/events)
 * Norwegian Research Infrastructure Services
   * [HPC
     On-boarding](https://documentation.sigma2.no/training/events/2022-05-hpc-on-boarding.html),
