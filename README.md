@@ -79,6 +79,21 @@ If you would like a **certificate**, please email support@coderefinery.org
 * And many more
 
 
+### Upcoming courses to highlight
+
+These upcoming courses have public registration, wherever you are:
+
+* Aalto University, https://scicomp.aalto.fi/training
+  * [Scientific Computing / HPC
+	kickstart](https://scicomp.aalto.fi/training/scip/debugging-2022/),
+	7,9-10 June
+  * [How to debug
+    code](https://scicomp.aalto.fi/training/scip/debugging-2022/)
+    (with Python/Matlab/C&C++/Julia/R days),
+    20-26 April
+* EuroHPC National Competence Center Sweden
+
+
 ### Nordic-RSE
 
 A **Research Software Engineer** combines research knowledge with
