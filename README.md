@@ -6,6 +6,14 @@ do next?
 
 ## Workshop is done...
 
+
+### Material will stay available
+
+- Main list: https://coderefinery.org/lessons/
+- All open source and will continue to be updated
+- ... the whole workshop is teaching how the lessons are made
+
+
 ### Thank you to all...
 - **Exercise leaders**
 - Instructors
