@@ -6,6 +6,16 @@ do next?
 
 ## Workshop is done...
 
+### Thank you to all...
+- **Exercise leaders**
+- Instructors
+- Other helpers
+- Attendees
+
+Please send a pull request to the workshop webpage if you are not
+listed and would like to be.
+
+
 ### Feedback
 
 **All feedback welcome and encouraged**:
@@ -17,7 +27,8 @@ do next?
 
 ### Practical matters
 
-If you would like a **certificate**, please email support@coderefinery.org
+If you would like a **certificate**, please check the course webpage
+for instructions depending on your location.
 
 
 ### Help CodeRefinery
