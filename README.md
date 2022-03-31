@@ -86,7 +86,7 @@ for instructions depending on your location.
 * **Swedish National Infrastructure for Computing**: https://snic.se
 * **EuroCC National Competence Center Sweden**: https://enccs.se/
   * Upcoming events: https://enccs.se/events/
-* **CSC - IT Center for Science**: https://research.csc.fi/
+* **CSC - IT Center for Science (Finland)**: https://research.csc.fi/
   * Training calendar: https://www.csc.fi/en/training#training-calendar
 * **Norwegian Research Infrastructure Services (NRIS)**
   * Training: https://documentation.sigma2.no/training/events.html
@@ -95,9 +95,9 @@ for instructions depending on your location.
 
 ### Upcoming courses to highlight
 
-There are *many* training courses 
-
-These upcoming courses have public registration, wherever you are:
+There are *many* training courses in the links above.  Here are a few
+courses we would like to highlight (important and most have
+registration open to the public):
 
 * Aalto University, https://scicomp.aalto.fi/training
   * [Scientific Computing / HPC
@@ -118,6 +118,12 @@ These upcoming courses have public registration, wherever you are:
   * [Best practices on NRIS
     clusters](https://documentation.sigma2.no/training/events/2022-05-best-practices-on-NRIS-clusters.html),
     23-24 May 2022
+* CSC - The IT Center for Science (Finland)
+  * [Elements of
+    SuperComputing](https://edukamu.fi/elements-of-supercomputing) - self-learning
+  * [Research data
+    management](https://ssl.eventilla.com/event/v8B6B) - self-learning
+
 
 
 ### Nordic-RSE
@@ -125,6 +131,8 @@ These upcoming courses have public registration, wherever you are:
 A **Research Software Engineer** combines research knowledge with
 software development experience, just like we have learned here.
 
+- Community, seminar series, and other events.
+- Chat (part of CodeRefinery chat): https://coderefinery.zulipchat.com, `#nordic-rse`
 - NordicRSE members can be found here: https://nordic-rse.org/map/
 - https://twitter.com/nordic_rse
 - Online unconference, 16-17 August: https://nordic-rse.org/events/2022-online-unconference/
@@ -133,10 +141,10 @@ software development experience, just like we have learned here.
 ### Research Software Hour
 
 - Web show on Twitch about the types of material we cover here
-- focused on practical tips and mentoring
-- Ca. every two weeks, Thursdays at 20:30 Oslo/21:30 Helsinki time
+- Focused on practical tips and mentoring
+- Schedule currently to be decided
 - https://researchsoftwarehour.github.io/
-- **Anyone want to be a guest and provide topics for us?**
+- **Anyone want to help make this happen again?**
 
 
 ## Gitlab service: source.coderefinery.org
