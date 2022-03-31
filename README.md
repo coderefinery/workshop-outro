@@ -86,7 +86,8 @@ for instructions depending on your location.
 * Swedish National Infrastructure for Computing: https://snic.se
 * EuroCC National Competence Center Sweden: https://enccs.se/
   * Upcoming events: https://enccs.se/events/
-* CSC - IT Center for Science: https://www.csc.fi/en/training
+* CSC - IT Center for Science: https://research.csc.fi/
+  * Training calendar: https://www.csc.fi/en/training#training-calendar
 * Norwegian Research Infrastructure Services (NRIS)
   * Training: https://documentation.sigma2.no/training/events.html
 * And many more
