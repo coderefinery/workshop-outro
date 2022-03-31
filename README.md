@@ -22,13 +22,21 @@ listed and would like to be.
 - HackMD: like usual
 - email, support@coderefinery.org
 - sticky notes (in-person)
-- https://coderefinery.org/get-involved/#contact-us
+- https://coderefinery.org/organization/contact/ (including our chat)
 
 
 ### Practical matters
 
 If you would like a **certificate**, please check the course webpage
 for instructions depending on your location.
+
+
+### Gitlab service: source.coderefinery.org
+
+CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
+
+- to be able to create projects/groups, please write support@coderefinery.org
+- everybody can join existing projects without asking us
 
 
 ### Help CodeRefinery
@@ -65,8 +73,7 @@ for instructions depending on your location.
 ### Join our meetings
 * Join our Community Call (first Monday of each month),
   https://coderefinery.org/organization/meetings/
-* Or every other Monday for a team meeting
-
+* Or every Monday for a team meeting
 * Learn together, work together, teach together with others
 * More advanced courses or independent study
 * CodeRefinery chat: https://coderefinery.zulipchat.com
@@ -145,12 +152,3 @@ software development experience, just like we have learned here.
 - Schedule currently to be decided
 - https://researchsoftwarehour.github.io/
 - **Anyone want to help make this happen again?**
-
-
-## Gitlab service: source.coderefinery.org
-
-CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
-
-- to be able to create projects/groups, please write support@coderefinery.org
-- everybody can join existing projects without asking us
-
