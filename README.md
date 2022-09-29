@@ -4,17 +4,7 @@ We have taught a lot, but it is just a starting point.  What can you
 do next?
 
 
-## Workshop is done...
-
-
-### Material will stay available
-
-- Main list: https://coderefinery.org/lessons/
-- All open source and will continue to be updated
-- ... the whole workshop is teaching how the lessons are made
-
-
-### Thank you to all...
+## Thank you to all...
 - **Exercise leaders**
 - Instructors
 - Other helpers
@@ -33,13 +23,74 @@ listed and would like to be.
 - https://coderefinery.org/organization/contact/ (including our chat)
 
 
-### Practical matters
+
+## If you want to keep studying...
+
+### Material will stay available
+
+- Main list: https://coderefinery.org/lessons/
+- All open source and will continue to be updated
+- You are free encouraged to reuse
+- ... the whole workshop is teaching how the lessons are made
+
+### Universities and partners that can support you
+
+* **Aalto Scientific Computing**: https://scicomp.aalto.fi/
+  * Daily session for questions: https://scicomp.aalto.fi/help/garage/
+  * Research Software Engineers provide close support for anything we
+    have covered in this workshop: https://scicomp.aalto.fi/rse/
+* **Swedish National Infrastructure for Computing**: https://snic.se
+* **EuroCC National Competence Center Sweden**: https://enccs.se/
+  * Upcoming events: https://enccs.se/events/
+* **CSC - IT Center for Science (Finland)**: https://research.csc.fi/
+  * Training calendar: https://www.csc.fi/en/training#training-calendar
+* **Norwegian Research Infrastructure Services (NRIS)**
+  * Training: https://documentation.sigma2.no/training/events.html
+* And many more
+
+
+### Upcoming courses we would like to highlight
+
+There are *many* training courses in the links above.  Here are a few
+courses we would like to highlight (important and most have
+registration open to the public):
+
+* [Python for Scientific
+  Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/),
+  Nov 202-25.
+  * Livestream, Aalto University
+
+* Workflows course (livestream) in February (?)
+
+* [Scientific Computing / HPC
+  kickstart](https://scicomp.aalto.fi/training/),
+  (summers, next in 2023)
+  * Livestream, Aalto University
+
+
+* EuroHPC National Competence Center Sweden,
+  [ENCCS](https://enccs.se/)
+  * Many upcoming events: https://enccs.se/events/
+  * Public training material: https://enccs.se/lessons/
+
+* Norwegian Research Infrastructure Services: https://www.sigma2.no/nris
+
+* CSC - The IT Center for Science (Finland)
+  * [Elements of
+    SuperComputing](https://edukamu.fi/elements-of-supercomputing) - self-learning
+  * [Research data
+    management](https://ssl.eventilla.com/event/v8B6B) - self-learning
+
+
+
+## If you want a certificate...
 
 If you would like a **certificate**, please check the course webpage
 for instructions depending on your location.
 
 
-### Gitlab service: source.coderefinery.org
+
+## If you want a EU-hosted alternative to Github: source.coderefinery.org
 
 CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
@@ -47,7 +98,8 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 - everybody can join existing projects without asking us
 
 
-### Help CodeRefinery
+
+## If you want to help CodeRefinery...
 
 **Tell everyone about us**
 - To be sustainable, we need people to know of the service we provide.
@@ -56,6 +108,9 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 **Come back as an Exercise Leader**
 - Bring your group, learn together.
 
+
+
+## If you want to get involved in CodeRefinery...
 
 ### Join CodeRefinery
 
@@ -89,74 +144,16 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 
 
-## Others you should know about
+## If you want to make a career out of software...
 
 
-### Universities and partners that can support you
-
-* **Aalto Scientific Computing**: https://scicomp.aalto.fi/
-  * Daily session for questions: https://scicomp.aalto.fi/help/garage/
-  * Research Software Engineers provide close support for anything we
-    have covered in this workshop: https://scicomp.aalto.fi/rse/
-* **Swedish National Infrastructure for Computing**: https://snic.se
-* **EuroCC National Competence Center Sweden**: https://enccs.se/
-  * Upcoming events: https://enccs.se/events/
-* **CSC - IT Center for Science (Finland)**: https://research.csc.fi/
-  * Training calendar: https://www.csc.fi/en/training#training-calendar
-* **Norwegian Research Infrastructure Services (NRIS)**
-  * Training: https://documentation.sigma2.no/training/events.html
-* And many more
-
-
-### Upcoming courses to highlight
-
-There are *many* training courses in the links above.  Here are a few
-courses we would like to highlight (important and most have
-registration open to the public):
-
-* Aalto University, https://scicomp.aalto.fi/training
-  * [Scientific Computing / HPC
-	kickstart](https://scicomp.aalto.fi/training/scip/summer-kickstart-2022/),
-	7,9-10 June
-  * [How to debug
-    code](https://scicomp.aalto.fi/training/scip/debugging-2022/)
-    (with Python/Matlab/C&C++/Julia/R days),
-    20-26 April
-* EuroHPC National Competence Center Sweden, [ENCCS](https://enccs.se/)
-  * [SYCL Workshop](https://enccs.se/events/04-2022-sycl/) 19-21 April
-  * [Introduction to Quantum Computing & Hybrid HPC-QC Systems](https://enccs.se/events/2022-06-quantum-computing/) 8-9 June
-  * [And many more!](https://enccs.se/events)
-* Norwegian Research Infrastructure Services
-  * [HPC
-    On-boarding](https://documentation.sigma2.no/training/events/2022-05-hpc-on-boarding.html),
-    3-5 May 2022
-  * [Best practices on NRIS
-    clusters](https://documentation.sigma2.no/training/events/2022-05-best-practices-on-NRIS-clusters.html),
-    23-24 May 2022
-* CSC - The IT Center for Science (Finland)
-  * [Elements of
-    SuperComputing](https://edukamu.fi/elements-of-supercomputing) - self-learning
-  * [Research data
-    management](https://ssl.eventilla.com/event/v8B6B) - self-learning
-
-
-
-### Nordic-RSE
+### Nordic Research Software Engineers
 
 A **Research Software Engineer** combines research knowledge with
 software development experience, just like we have learned here.
 
 - Community, seminar series, and other events.
 - Chat (part of CodeRefinery chat): https://coderefinery.zulipchat.com, `#nordic-rse`
+- Online unconference, 18-19 October August: https://nordic-rse.org/events/2022-online-unconference/
 - NordicRSE members can be found here: https://nordic-rse.org/map/
 - https://twitter.com/nordic_rse
-- Online unconference, 16-17 August: https://nordic-rse.org/events/2022-online-unconference/
-
-
-### Research Software Hour
-
-- Web show on Twitch about the types of material we cover here
-- Focused on practical tips and mentoring
-- Schedule currently to be decided
-- https://researchsoftwarehour.github.io/
-- **Anyone want to help make this happen again?**
