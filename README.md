@@ -59,22 +59,16 @@ registration open to the public):
   Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/),
   Nov 22-25.
   * Livestream, Aalto University
-
 * Workflows course (livestream) in February (?)
-
 * [Scientific Computing / HPC
   kickstart](https://scicomp.aalto.fi/training/),
   (summers, next in 2023)
   * Livestream, Aalto University
-
-
 * EuroHPC National Competence Center Sweden,
   [ENCCS](https://enccs.se/)
   * Many upcoming events: https://enccs.se/events/
   * Public training material: https://enccs.se/lessons/
-
 * Norwegian Research Infrastructure Services: https://www.sigma2.no/nris
-
 * CSC - The IT Center for Science (Finland)
   * [Elements of
     SuperComputing](https://edukamu.fi/elements-of-supercomputing) - self-learning
