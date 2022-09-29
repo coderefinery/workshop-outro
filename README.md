@@ -33,6 +33,7 @@ listed and would like to be.
 - You are free encouraged to reuse
 - ... the whole workshop is teaching how the lessons are made
 
+
 ### Universities and partners that can support you
 
 * **Aalto Scientific Computing**: https://scicomp.aalto.fi/
@@ -55,6 +56,9 @@ There are *many* training courses in the links above.  Here are a few
 courses we would like to highlight (important and most have
 registration open to the public):
 
+* **CodeRefinery** - next one
+  * March 21-23 and 28-30.  Registration open soon, notify-me on
+    website.  https://coderefinery.org
 * [Python for Scientific
   Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/),
   Nov 22-25.
@@ -139,7 +143,6 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 
 ## If you want to make a career out of software...
-
 
 ### Nordic Research Software Engineers
 
