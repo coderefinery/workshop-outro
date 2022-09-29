@@ -57,7 +57,7 @@ registration open to the public):
 
 * [Python for Scientific
   Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/),
-  Nov 202-25.
+  Nov 22-25.
   * Livestream, Aalto University
 
 * Workflows course (livestream) in February (?)
