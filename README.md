@@ -14,6 +14,8 @@ Please send a pull request to the workshop webpage if you are not
 listed and would like to be.
 
 
+## If you attended...
+
 ### Feedback
 
 **All feedback welcome and encouraged**:
@@ -21,6 +23,15 @@ listed and would like to be.
 - email, support@coderefinery.org
 - sticky notes (in-person)
 - https://coderefinery.org/organization/contact/ (including our chat)
+
+
+### Register if you haven't (and want to support us)
+
+- **Registering will help with our funding and reports**: Find link
+  from https://coderefinery.org/
+- You will receive a post-workshop survey of how your work has been
+  affected.
+- (though we support the right to attend anonymously)
 
 
 
@@ -110,7 +121,24 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 ## If you want to get involved in CodeRefinery...
 
-### Join CodeRefinery
+**We can use diverse types of team members**
+- It's not just teaching, but so much to put these on
+- We can mentor you if you want to be an instructor
+
+**Join our meetings**
+* Join our Community Call (first Monday of each month),
+  https://coderefinery.org/organization/meetings/
+* Or every Monday for a team meeting
+* Learn together, work together, teach together with others
+* More advanced courses or independent study
+* CodeRefinery chat: https://coderefinery.zulipchat.com
+  * #help stream, give and ask advice.
+
+
+### Join as an individual
+
+- As an individual, teach or do whatever you want:
+  https://coderefinery.org/organization/get-involved/
 
 **If you would like to get involved** in teaching/tutoring/material or even event organization:
 - If you would like to participate as helper or instructor in future
@@ -124,21 +152,16 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 - We usually go through all issues latest before each workshop and are happy to
   hear about anything that could be improved from participant view
 
-**Join as a contributor or organizational partner**
-- As an individual, teach or do whatever you want:
-  https://coderefinery.org/organization/get-involved/
-- As an organizational partner, do even more (run your own breakout
-  rooms): https://coderefinery.org/organization/partners/
 
+### Join as an organization
+https://coderefinery.org/organization/partners/
 
-### Join our meetings
-* Join our Community Call (first Monday of each month),
-  https://coderefinery.org/organization/meetings/
-* Or every Monday for a team meeting
-* Learn together, work together, teach together with others
-* More advanced courses or independent study
-* CodeRefinery chat: https://coderefinery.zulipchat.com
-  * #help stream, give and ask advice.
+- Systematically advertise to your audience
+- **Run your own breakout rooms** (in-person or online)
+- Offer certificates
+- Improve your own teaching with CodeRefinery teaching strategies.
+- Share your teaching work, don't re-invent everything: get
+  co-teachers and more attendees.
 
 
 
@@ -152,5 +175,5 @@ software development experience, just like we have learned here.
 - Community, seminar series, and other events.
 - Chat (part of CodeRefinery chat): https://coderefinery.zulipchat.com, `#nordic-rse`
 - Online unconference, 18-19 October August: https://nordic-rse.org/events/2022-online-unconference/
-- NordicRSE members can be found here: https://nordic-rse.org/map/
 - https://twitter.com/nordic_rse
+- NordicRSE members can be found here: https://nordic-rse.org/map/
