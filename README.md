@@ -67,12 +67,13 @@ There are *many* training courses in the links above.  Here are a few
 courses we would like to highlight (important and most have
 registration open to the public):
 
-* **CodeRefinery** - next one
-  * March 21-23 and 28-30.  Registration open soon, notify-me on
+* **CodeRefinery**
+  * May 9-11, Ångström lab, Uppsala.  Registration open soon, notify-me on
     website.  https://coderefinery.org
+  * September 19-21 & 26-28, livestream
 * [Python for Scientific
   Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/),
-  Nov 22-25.
+  Nov 2023, dates not yet set.
   * Livestream, Aalto University
 * Workflows course (livestream) in February (?)
 * [Scientific Computing / HPC
