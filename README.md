@@ -7,6 +7,8 @@ do next?
 ## Thank you to all...
 - **Exercise leaders**
 - Instructors
+- Collaborative document question answerers
+- Local partners
 - Other helpers
 - Attendees
 
@@ -19,13 +21,13 @@ listed and would like to be.
 ### Feedback
 
 **All feedback welcome and encouraged**:
-- HackMD: like usual
+- Collaborative document: like usual
 - email, support@coderefinery.org
 - sticky notes (in-person)
 - https://coderefinery.org/organization/contact/ (including our chat)
 
 
-### Register if you haven't (and want to support us)
+### Register if you haven't yet (and want to support us)
 
 - **Registering will help with our funding and reports**: Find link
   from https://coderefinery.org/
@@ -35,23 +37,33 @@ listed and would like to be.
 
 
 
-## If you want to keep studying...
+## If you want to keep studying / want more help...
 
-### Material will stay available
+We have only started here, there is plenty to still learn.
+
+
+### Review / learn yourself later
 
 - Main list: https://coderefinery.org/lessons/
 - All open source and will continue to be updated
-- You are free encouraged to reuse
+- Videos will stay on YouTube
+- We encourage re-use, re-teaching, etc.
 - ... the whole workshop is teaching how the lessons are made
 
 
-### Universities and partners that can support you
+### Ask for local support from partners
+These partners can provide support / Q&A / etc for what we have taught
+and have local training.  (There are probably more that we don't know
+about).
 
 * **Aalto Scientific Computing**: https://scicomp.aalto.fi/
   * Daily session for questions: https://scicomp.aalto.fi/help/garage/
   * Research Software Engineers provide close support for anything we
     have covered in this workshop: https://scicomp.aalto.fi/rse/
-* **Swedish National Infrastructure for Computing**: https://snic.se
+* **Sweden**
+  * **National Academic Infrastructure for Supercomputing in Sweden**,
+    https://www.naiss.se/
+  * **EuroCC National Competence Center Sweden**: https://enccs.se/
 * **EuroCC National Competence Center Sweden**: https://enccs.se/
   * Upcoming events: https://enccs.se/events/
 * **CSC - IT Center for Science (Finland)**: https://research.csc.fi/
@@ -111,39 +123,34 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 ## If you want to help CodeRefinery...
 
-**Tell everyone about us**
-- To be sustainable, we need people to know of the service we provide.
-- https://twitter.com/coderefine
+- **Tell everyone about us.** #CodeRefinery, Mastodon:
+  [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery)
+  Twitter: [@coderefine](https://twitter.com/coderefine)
 
-**Come back as an Exercise Leader**
-- Bring your group, learn together.
+- **Come back as an Exercise Leader.** Bring your group, learn together.
 
 
 
 ## If you want to get involved in CodeRefinery...
 
-**We can use diverse types of team members**
-- It's not just teaching, but so much to put these on
-- We can mentor you if you want to be an instructor
+**We can use diverse types of team members.**  We have plenty to do
+beyond teaching
 
 **Join our meetings**
-* Join our Community Call (first Monday of each month),
-  https://coderefinery.org/organization/meetings/
-* Or every Monday for a team meeting
-* Learn together, work together, teach together with others
-* More advanced courses or independent study
-* CodeRefinery chat: https://coderefinery.zulipchat.com
-  * #help stream, give and ask advice.
+* https://coderefinery.org/join/meetings/ - Monday afternoons
+
+CodeRefinery chat: https://coderefinery.zulipchat.com
+* #help stream, give and ask advice.
 
 
 ### Join as an individual
 
 - As an individual, teach or do whatever you want:
-  https://coderefinery.org/organization/get-involved/
+  https://coderefinery.org/join/individuals/
 
 **If you would like to get involved** in teaching/tutoring/material or even event organization:
 - If you would like to participate as helper or instructor in future
-  workshops, please fill the "notify-me" form: https://indico.neic.no/event/135/surveys/
+  workshops, please register to our newsletter: https://coderefinery.org/#newsletter
 - You can also write to us, every contribution most welcome
 - If you would like to reuse some of our material for your own workshops, we can probably support you
 - https://coderefinery.github.io/manuals/
@@ -155,10 +162,10 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
 
 
 ### Join as an organization
-https://coderefinery.org/organization/partners/
+https://coderefinery.org/join/organizations/
 
-- Systematically advertise to your audience
 - **Run your own breakout rooms** (in-person or online)
+- Systematically advertise to your audience
 - Offer certificates
 - Improve your own teaching with CodeRefinery teaching strategies.
 - Share your teaching work, don't re-invent everything: get
