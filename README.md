@@ -79,6 +79,10 @@ There are *many* training courses in the links above.  Here are a few
 courses we would like to highlight (important and most have
 registration open to the public):
 
+* Follow-ups: Bring Your Own Code sessions on 2 and 9 October at
+  16EEST / 15 CEST.  Same Zoom as exercise sessions.
+
+
 * **CodeRefinery**
   * May 9-11, Ångström lab, Uppsala.  Registration open soon, notify-me on
     website.  https://coderefinery.org
