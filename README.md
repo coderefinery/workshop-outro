@@ -199,7 +199,7 @@ software development experience, just like we have learned here.
 
 - Community, seminar series, and other events.
 - Chat (part of CodeRefinery chat): https://coderefinery.zulipchat.com, `#nordic-rse`
-- Online unconference, 18-19 October August: https://nordic-rse.org/events/2022-online-unconference/
+- Online unconference, 25-26 October August: https://nordic-rse.org/events/2023-online-unconference/
 - https://twitter.com/nordic_rse
 - NordicRSE members can be found here: https://nordic-rse.org/map/
 
