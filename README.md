@@ -110,6 +110,7 @@ registration open to the public):
   * Many upcoming events: https://enccs.se/events/
   * Public training material: https://enccs.se/lessons/
 * Norwegian Research Infrastructure Services: https://www.sigma2.no/nris
+  * [NRIS Training](https://documentation.sigma2.no/training/events.html#training-events)
 * CSC - The IT Center for Science (Finland)
   * [Elements of
     SuperComputing](https://edukamu.fi/elements-of-supercomputing) - self-learning
