@@ -42,6 +42,13 @@ listed and would like to be.
 We have only started here, there is plenty to still learn.
 
 
+### Bring your own code session
+
+* **Bring your own code and we'll look at it together**
+* Next two Monday afternoons, 15-16:30 CEST
+* Zoom link will be sent to registered learners
+
+
 ### Review / learn yourself later
 
 - Main list: https://coderefinery.org/lessons/
@@ -56,20 +63,21 @@ These partners can provide support / Q&A / etc for what we have taught
 and have local training.  (There are probably more that we don't know
 about).
 
-* **Aalto Scientific Computing**: https://scicomp.aalto.fi/
-  * Daily session for questions: https://scicomp.aalto.fi/help/garage/
-  * Research Software Engineers provide close support for anything we
-    have covered in this workshop: https://scicomp.aalto.fi/rse/
+* **Finland**
+  * **Aalto Scientific Computing**: https://scicomp.aalto.fi/
+    * Daily session for questions: https://scicomp.aalto.fi/help/garage/
+    * Research Software Engineers provide close support for anything we
+      have covered in this workshop: https://scicomp.aalto.fi/rse/
+  * **CSC - IT Center for Science (Finland)**: https://research.csc.fi/
+    * Training calendar: https://www.csc.fi/en/training#training-calendar
 * **Sweden**
   * **National Academic Infrastructure for Supercomputing in Sweden**,
     https://www.naiss.se/
   * **EuroCC National Competence Center Sweden**: https://enccs.se/
-* **EuroCC National Competence Center Sweden**: https://enccs.se/
-  * Upcoming events: https://enccs.se/events/
-* **CSC - IT Center for Science (Finland)**: https://research.csc.fi/
-  * Training calendar: https://www.csc.fi/en/training#training-calendar
-* **Norwegian Research Infrastructure Services (NRIS)**
-  * Training: https://documentation.sigma2.no/training/events.html
+    * Upcoming events: https://enccs.se/events/
+* **Norway**
+  * **Norwegian Research Infrastructure Services (NRIS)**
+    * Training: https://documentation.sigma2.no/training/events.html
 * And many more
 
 
@@ -83,19 +91,18 @@ registration open to the public):
   16EEST / 15 CEST.  Same Zoom as exercise sessions.
 
 
-* **CodeRefinery**
-  * May 9-11, Ångström lab, Uppsala.  Registration open soon, notify-me on
-    website.  https://coderefinery.org
-  * September 19-21 & 26-28, livestream
 * [Python for Scientific
-  Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/),
-  Nov 2023, dates not yet set.
-  * Livestream, Aalto University
+  Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2023/),
+  7-11 Nov 2023.
+  * Livestream, many of the same people as here.
+  * We want ~1000 registrations and 10 local partners to do this! -
+    help us.
 * Workflows course (livestream) in February (?)
+  * How do researchers actually use all of these tools together?
 * [Scientific Computing / HPC
   kickstart](https://scicomp.aalto.fi/training/),
-  (summers, next in 2023)
-  * Livestream, Aalto University
+  (~first week of June, next in 2024)
+  * Livestream, Aalto University, relevant to everyone.
 * EuroHPC National Competence Center Sweden,
   [ENCCS](https://enccs.se/)
   * Many upcoming events: https://enccs.se/events/
@@ -106,6 +113,8 @@ registration open to the public):
     SuperComputing](https://edukamu.fi/elements-of-supercomputing) - self-learning
   * [Research data
     management](https://ssl.eventilla.com/event/v8B6B) - self-learning
+* **CodeRefinery**
+  * Next online in March-May 2023 (?)
 
 
 
@@ -132,13 +141,14 @@ CodeRefinery has a cross-Nordic GitLab service: https://source.coderefinery.org:
   Twitter: [@coderefine](https://twitter.com/coderefine)
 
 - **Come back as an Exercise Leader.** Bring your group, learn together.
+- **Bring your whole organization.** Organize local groups.
 
 
 
 ## If you want to get involved in CodeRefinery...
 
 **We can use diverse types of team members.**  We have plenty to do
-beyond teaching
+beyond teaching.
 
 **Join our meetings**
 * https://coderefinery.org/join/meetings/ - Monday afternoons
@@ -189,3 +199,9 @@ software development experience, just like we have learned here.
 - Online unconference, 18-19 October August: https://nordic-rse.org/events/2022-online-unconference/
 - https://twitter.com/nordic_rse
 - NordicRSE members can be found here: https://nordic-rse.org/map/
+
+
+## Link to instructor Zoom will be posted if you want to talk to us now.
+
+
+## Thank you!
