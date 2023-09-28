@@ -97,6 +97,8 @@ registration open to the public):
   * Livestream, many of the same people as here.
   * We want ~1000 registrations and 10 local partners to do this! -
     help us.
+* [Julia for High-Performance Scientific Computing](https://enccs.se/events/10-2023-julia-for-hpc/)
+  * Online, 10-13 October
 * Workflows course (livestream) in February (?)
   * How do researchers actually use all of these tools together?
 * [Scientific Computing / HPC
