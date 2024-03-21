@@ -62,6 +62,9 @@ about).
 * **Norway**
   * **Norwegian Research Infrastructure Services (NRIS)**
     * Training: https://documentation.sigma2.no/training/events.html
+* **Denmark**
+  * **Center of Humanities Computing, Aarhus University**
+    *  https://chc.au.dk/
 * And many more
 
 ## Certificates
