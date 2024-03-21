@@ -1,4 +1,4 @@
-# Concluding remarks
+# CodeRefinery '24 - Concluding remarks
 
 ## Thank you
 - Participants
