@@ -55,7 +55,7 @@ about).
     * Weekly user support session: https://ssl.eventilla.com/usersupportcoffee
     * Training calendar: https://www.csc.fi/en/training#training-calendar
 * **Sweden**
-  * **National Academic Infrastructure for Supercomputing in Sweden**,
+  * **National Academic Infrastructure for Supercomputing in Sweden**:
     https://www.naiss.se/
   * **EuroCC National Competence Center Sweden**: https://enccs.se/
     * Upcoming events: https://enccs.se/events/
