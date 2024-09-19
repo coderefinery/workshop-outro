@@ -23,14 +23,14 @@ We develop the workshop materials and format further based on your feedback and 
 
 At some point in the future, you will receive a **post-workshop survey** of how your work has been affected by visiting this workshop. Please answer it.
 
-## Keep studying / ask for support 
+## Keep studying / ask for support
 
 We have only started here, there is plenty to still learn and explore.
 
 ### Bring your own code session
 
 * **Bring your own code and we'll look at it together**
-* Next two Tuesday afternoons, 13-15:00 CEST
+* Upcoming Tuesday afternoons, 22 and 29 October (see website)
 * Zoom link will be sent to registered learners
 
 ### Review
@@ -69,7 +69,7 @@ about).
 
 ## Certificates
 
-If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2024-03-12-workshop/) for instructions.
+If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2024-09-10-workshop/) for instructions.
 
 ## Support CodeRefinery
 
@@ -95,7 +95,6 @@ software development experience, just like we have learned here.
 
 - Community, seminar series, and other events.
 - Chat (part of CodeRefinery chat): https://coderefinery.zulipchat.com, `#nordic-rse`
-- [Nordic-RSE conference](https://nordic-rse.org/events/2024-in-person-conference/): May 30-31 in Espoo, Finland
 - https://twitter.com/nordic_rse
 
 ## Thank you!
