@@ -1,4 +1,4 @@
-# CodeRefinery '24 - Concluding remarks
+# CodeRefinery '25 - Concluding remarks
 
 ## Thank you
 - Participants
@@ -69,13 +69,14 @@ about).
 
 ## Certificates
 
-If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2024-09-10-workshop/) for instructions.
+If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2025-03-25-workshop/certificates/) for instructions.
 
 ## Support CodeRefinery
 
-- **Tell everyone about us.** #CodeRefinery, Mastodon:
-  [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery)
-  Twitter: [@coderefine](https://twitter.com/coderefine) , LinkedIn: [CodeRefinery](https://www.linkedin.com/company/coderefinery-research-software-development)
+- **Tell everyone about us.** #CodeRefinery,
+- Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery).
+- BlueSky: [@coderefinery.org](https://bsky.app/profile/coderefinery.org)
+- LinkedIn: [CodeRefinery](https://www.linkedin.com/company/88414793)
 
 - **Come back as an Team Leader.** Bring your group, learn together.
 - **Become part of the team** CodeRefinery lives from **in-kind** contributions by organizations (your organization sponsors your worktime to the project)
@@ -95,6 +96,10 @@ software development experience, just like we have learned here.
 
 - Community, seminar series, and other events.
 - Chat (part of CodeRefinery chat): https://coderefinery.zulipchat.com, `#nordic-rse`
-- https://twitter.com/nordic_rse
+- LinkedIn: https://www.linkedin.com/company/nordic-rse/
+- Mastodon: https://fosstodon.org/@nordic_rse
+- BlueSky: https://bsky.app/profile/nordic-rse.bsky.social
+
+Join us for second in-person conference May 20.+21. 2025 in Gothenburg Sweden: <https://nordic-rse.org/nrse2025/>
 
 ## Thank you!
