@@ -30,14 +30,14 @@ We have only started here, there is plenty to still learn and explore.
 ### Bring your own code session
 
 * **Bring your own code and we'll look at it together**
-* Upcoming Tuesday afternoons, 22 and 29 October (see website)
-* Zoom link will be sent to registered learners
+  * Wednesday April 16, 09:00 - 11:00
+  * Register here: <https://link.webropolsurveys.com/EP/77CAC7D83922E86E> (also linked from workshop schedule)
 
 ### Review
 
 - Main list: https://coderefinery.org/lessons/
 - All open source and will continue to be updated
-- Videos will stay on YouTube
+- Videos will stay on [YouTube](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg)
 - We encourage re-use, re-teaching, etc.
 
 ### Ask for local support from partners
@@ -47,29 +47,29 @@ and have local related training.  (There are probably more that we don't know
 about).
 
 * **Finland**
-  * **Aalto Scientific Computing**: https://scicomp.aalto.fi/
-    * Daily session for questions: https://scicomp.aalto.fi/help/garage/
+  * **Aalto Scientific Computing**: <https://scicomp.aalto.fi/>
+    * Daily session for questions: <https://scicomp.aalto.fi/help/garage/>
     * Research Software Engineers provide close support for anything we
-      have covered in this workshop: https://scicomp.aalto.fi/rse/
-  * **CSC - IT Center for Science (Finland)**: https://research.csc.fi/
-    * Weekly user support session: https://ssl.eventilla.com/usersupportcoffee
-    * Training calendar: https://www.csc.fi/en/training#training-calendar
+      have covered in this workshop: <https://scicomp.aalto.fi/rse/>
+  * **CSC - IT Center for Science (Finland)**: <https://research.csc.fi/>
+    * Weekly user support session: <https://csc.fi/en/training-calendar/csc-research-support-coffee-every-wednesday-at-1400-finnish-time-2-2/>
+    * Training calendar: <https://www.csc.fi/en/training#training-calendar>
 * **Sweden**
   * **National Academic Infrastructure for Supercomputing in Sweden**:
-    https://www.naiss.se/
-  * **EuroCC National Competence Center Sweden**: https://enccs.se/
-    * Upcoming events: https://enccs.se/events/
+    <https://www.naiss.se/>
+  * **EuroCC National Competence Center Sweden**: <https://enccs.se/>
+    * Upcoming events: <https://enccs.se/events/>
 * **Norway**
   * **Norwegian Research Infrastructure Services (NRIS)**
-    * Training: https://documentation.sigma2.no/training/events.html
+    * Training: <https://documentation.sigma2.no/training/events.html>
 * **Denmark**
   * **Center of Humanities Computing, Aarhus University**
-    *  https://chc.au.dk/
+    *  <https://chc.au.dk/>
 * And many more
 
 ## Certificates
 
-If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2025-03-25-workshop/certificates/) for instructions.
+If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2025-03-25-workshop/certificates/) for instructions. Deadline April 16th.
 
 ## Support CodeRefinery
 
@@ -94,7 +94,7 @@ Follow what we do by signing up to our **newsletter**: https://coderefinery.org/
 A **Research Software Engineer** combines research knowledge with
 software development experience, just like we have learned here.
 
-- Community, seminar series, and other events.
+- Community, seminars, and other events.
 - Chat (part of CodeRefinery chat): https://coderefinery.zulipchat.com, `#nordic-rse`
 - LinkedIn: https://www.linkedin.com/company/nordic-rse/
 - Mastodon: https://fosstodon.org/@nordic_rse
