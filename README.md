@@ -35,7 +35,7 @@ We have only started here, there is plenty to still learn and explore.
 
 ### Review
 
-- Main list: https://coderefinery.org/lessons/
+- [Main list of all our lessons](https://coderefinery.org/lessons/)
 - All open source and will continue to be updated
 - Videos will stay on [YouTube](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg)
 - We encourage re-use, re-teaching, etc.
