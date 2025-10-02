@@ -27,12 +27,6 @@ At some point in the future, you will receive a **post-workshop survey** of how 
 
 We have only started here, there is plenty to still learn and explore.
 
-### Bring your own code session
-
-* **Bring your own code and we'll look at it together**
-  * Wednesday April 16, 09:00 - 11:00
-  * Register here: <https://link.webropolsurveys.com/EP/77CAC7D83922E86E> (also linked from workshop schedule)
-
 ### Review
 
 - [Main list of all our lessons](https://coderefinery.org/lessons/)
@@ -65,11 +59,16 @@ about).
 * **Denmark**
   * **Center of Humanities Computing, Aarhus University**
     *  <https://chc.au.dk/>
+  * **Technical University of Denmark**
+    *  <https://www.dtu.dk/>
+*  **Iceland**
+  * **University of Iceland**
+    * <https://hi.is/>   
 * And many more
 
 ## Certificates
 
-If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2025-03-25-workshop/certificates/) for instructions. Deadline April 16th.
+If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2025-09-09-workshop/certificates/) for instructions. 
 
 ## Support CodeRefinery
 
@@ -100,6 +99,6 @@ software development experience, just like we have learned here.
 - Mastodon: https://fosstodon.org/@nordic_rse
 - BlueSky: https://bsky.app/profile/nordic-rse.bsky.social
 
-Join us for second in-person conference May 20.+21. 2025 in Gothenburg Sweden: <https://nordic-rse.org/nrse2025/>
+Join us for our third in-person conference June 9-10, 2026 in Tromsø, Norway : <https://nordic-rse.org/>
 
 ## Thank you!
