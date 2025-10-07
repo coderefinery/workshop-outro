@@ -61,10 +61,10 @@ about).
     *  <https://chc.au.dk/>
   * **Technical University of Denmark**
     *  <https://www.dtu.dk/>
-*  **Iceland**
+* **Iceland**
   * **University of Iceland**
-    * <https://hi.is/>   
-* And many more
+    *  <https://hi.is/>   
+* And many more...
 
 ## Certificates
 
