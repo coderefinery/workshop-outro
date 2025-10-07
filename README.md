@@ -30,6 +30,7 @@ We have only started here, there is plenty to still learn and explore.
 ### Review
 
 - [Main list of all our lessons](https://coderefinery.org/lessons/)
+- Also as static pdfs on [Zenodo](https://zenodo.org/communities/coderefinery/records?q=&f=resource_type%3Alesson&l=list&p=1&s=10&sort=newest)
 - All open source and will continue to be updated
 - Videos will stay on [YouTube](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg)
 - We encourage re-use, re-teaching, etc.
@@ -72,7 +73,8 @@ If you would like a **certificate**, please check the [course webpage](https://c
 
 ## Support CodeRefinery
 
-- **Tell everyone about us.** #CodeRefinery,
+- **Please do share your workshop experience with friends and colleagues, this is often the way how people learn about the workshop**
+- On social media you can use #CodeRefinery,
 - Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery).
 - BlueSky: [@coderefinery.org](https://bsky.app/profile/coderefinery.org)
 - LinkedIn: [CodeRefinery](https://www.linkedin.com/company/88414793)
