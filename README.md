@@ -58,10 +58,13 @@ about).
   * **Norwegian Research Infrastructure Services (NRIS)**
     * Training: <https://documentation.sigma2.no/training/events.html>
 * **Denmark**
+  * **Danish e-Infrastructure Consortium**
+    * <https://www.deic.dk/en/Front-Office>  
   * **Center of Humanities Computing, Aarhus University**
     *  <https://chc.au.dk/>
   * **Technical University of Denmark**
     *  <https://www.dtu.dk/>
+    *  DTU Library (<https://www.bibliotek.dtu.dk/en/>) supports students and staff with code publication, citation and licences.
 * **Iceland**
   * **University of Iceland**
     *  <https://hi.is/>   
