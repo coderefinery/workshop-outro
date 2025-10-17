@@ -58,8 +58,7 @@ about).
   * **Norwegian Research Infrastructure Services (NRIS)**
     * Training: <https://documentation.sigma2.no/training/events.html>
 * **Denmark**
-  * **Danish e-Infrastructure Consortium**
-    * <https://www.deic.dk/en/Front-Office>  
+  * Contact points at Danish universities: <https://www.deic.dk/en/Front-Office>  
   * **Center of Humanities Computing, Aarhus University**
     *  <https://chc.au.dk/>
   * **Technical University of Denmark**
