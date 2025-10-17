@@ -58,7 +58,8 @@ about).
   * **Norwegian Research Infrastructure Services (NRIS)**
     * Training: <https://documentation.sigma2.no/training/events.html>
 * **Denmark**
-  * Contact points at Danish universities: <https://www.deic.dk/en/Front-Office>  
+  * Contact points at **Danish universities**: <https://www.deic.dk/en/Front-Office>
+  * **Danish Data Science Academy** (<https://ddsa.dk/>) regularly hosts educational data science related events, offers supportive fundings, fellowships and mentorship programs. 
   * **Center of Humanities Computing, Aarhus University**
     *  <https://chc.au.dk/>
   * **Technical University of Denmark**
