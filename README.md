@@ -1,4 +1,4 @@
-# CodeRefinery '25 - Concluding remarks
+# CodeRefinery '26 - Concluding remarks
 
 ## Thank you
 - Participants
@@ -7,7 +7,7 @@
 - Collaborative document question answerers
 - Local partners
 
-You make these workshops possible and enjoyable <3
+You make these workshops possible <3
 
 ## Feedback
 
@@ -72,7 +72,7 @@ about).
 
 ## Certificates
 
-If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2025-09-09-workshop/certificates/) for instructions. 
+If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2026-03-17-workshop/certificates/) for instructions. 
 
 ## Support CodeRefinery
 
