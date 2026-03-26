@@ -2,10 +2,15 @@
 
 ## Thank you
 - Participants
-- Team leaders and hosts
+- Team leaders
+- Local partners, classroom hosts
 - Instructors
-- Collaborative document question answerers
-- Local partners
+- Team behind the scenes:
+  - Streamers
+  - Instructor trainer
+  - Question answerers
+  - Coordinators
+  - Installation helpers
 
 You make these workshops possible <3
 
