@@ -77,7 +77,7 @@ about).
 
 ## Certificates
 
-If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2026-03-17-workshop/certificates/) for instructions. 
+If you would like a **certificate**, please check the [course webpage](https://coderefinery.github.io/2026-09-22-workshop/certificates/) for instructions. 
 
 ## Support CodeRefinery
 
@@ -109,6 +109,6 @@ software development experience, just like we have learned here.
 - Mastodon: https://fosstodon.org/@nordic_rse
 - BlueSky: https://bsky.app/profile/nordic-rse.bsky.social
 
-Join us for our third in-person conference June 9-10, 2026 in Tromsø, Norway : <https://nordic-rse.org/>
+Join us for our fourth in-person conference June 15-16, 2026 in Tartu, Estonia : <https://nordic-rse.org/>
 
 ## Thank you!
