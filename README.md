@@ -5,6 +5,7 @@
 - Team leaders
 - Local partners, classroom hosts
 - Instructors
+- [CodeRefinery partner organizations](https://coderefinery.org/about/partners/)
 - Team behind the scenes:
   - Streamers
   - Instructor trainer
@@ -43,8 +44,7 @@ We have only started here, there is plenty to still learn and explore.
 ### Ask for local support from partners
 
 These partners can provide support / Q&A / etc for what we have taught
-and have local related training.  (There are probably more that we don't know
-about).
+and have local related training.  
 
 * **Finland**
   * **Aalto Scientific Computing**: <https://scicomp.aalto.fi/>
@@ -110,5 +110,7 @@ software development experience, just like we have learned here.
 - BlueSky: https://bsky.app/profile/nordic-rse.bsky.social
 
 Join us for our fourth in-person conference June 15-16, 2026 in Tartu, Estonia : <https://nordic-rse.org/>
+
+RSE associations also exist in other parts of the world. You can find many of them on the list of the [Research Software Alliance](https://researchsoftware.org/assoc.html). 
 
 ## Thank you!
