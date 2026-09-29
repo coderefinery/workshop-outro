@@ -62,6 +62,7 @@ and have local related training.
 * **Norway**
   * **Norwegian Research Infrastructure Services (NRIS)**
     * Training: <https://documentation.sigma2.no/training/events.html>
+  * **Research Software Engineering (RSE) group at UiT**: <http://research-software.uit.no/>
 * **Denmark**
   * Contact points at **Danish universities**: <https://www.deic.dk/en>
   * **Danish Data Science Academy** (<https://ddsa.dk/>) regularly hosts educational data science related events, offers supportive fundings, fellowships and mentorship programs. 
