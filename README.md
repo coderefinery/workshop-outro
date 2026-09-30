@@ -54,6 +54,10 @@ and have local related training.
   * **CSC - IT Center for Science (Finland)**: <https://research.csc.fi/>
     * Weekly user support session: <https://csc.fi/en/training-calendar/csc-research-support-coffee-every-wednesday-at-1400-finnish-time-2-2/>
     * Training calendar: <https://www.csc.fi/en/training#training-calendar>
+  * **University of Helsinki Research Software Engineering group (UH-RSE)**: <https://wiki.helsinki.fi/xwiki/bin/view/Research%20Software%20Engineering%20group/>
+    * Students at the University of Helsinki can have their participation in this CodeRefinery iteration accredited through the brand new [SCI-006 Computing Skills for Researchers](https://sisu.helsinki.fi/staff/studies/staff/hy-lv-77/courseunit/otm-c7f789b8-623b-4b37-a6be-8135e4af5d41/basicinfo) course.
+    * Twice weekly session for questions: <https://version.helsinki.fi/rse/garage/-/wikis/home>
+    * Research Software Engineers are here to support you with the material covered in this workshop and beyond.
 * **Sweden**
   * **National Academic Infrastructure for Supercomputing in Sweden**:
     <https://www.naiss.se/>
