@@ -114,7 +114,7 @@ software development experience, just like we have learned here.
 - Mastodon: https://fosstodon.org/@nordic_rse
 - BlueSky: https://bsky.app/profile/nordic-rse.bsky.social
 
-Join us for our fourth in-person conference June 15-16, 2026 in Tartu, Estonia : <https://nordic-rse.org/>
+Join us for our fourth in-person conference June 15-16, 2027 in Tartu, Estonia : <https://nordic-rse.org/>
 
 RSE associations also exist in other parts of the world. You can find many of them on the list of the [Research Software Alliance](https://researchsoftware.org/assoc.html). 
 
